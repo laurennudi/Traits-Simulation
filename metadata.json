@@ -1,0 +1,6 @@
+{
+  "name": "Habitat & Traits Lab",
+  "description": "Interactive NGSS 3-LS3-2 science simulation exploring how three fox evolutions adapted their traits to survive in Arctic, Desert, and Forest environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
